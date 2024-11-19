@@ -1,59 +1,42 @@
-## Introduction
+## What you will make
+OR
+## What you will do
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
-
-### What you will make
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+A brief description - one or two sentences. 
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![ALT TEXT](images/IMAGE.png)
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+--- no-print ---
 
-+ A computer or tablet capable of running Scratch 3
+Editor embed 
 
-### Software
+--- /no-print ---
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- no-print ---
+Video embed
 
-### Downloads
+<video width="640" height="360" controls>
+<source src="images/videoname.mp4" type="video/mp4">
+</video>
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+Youtube embed 
+<html>
+<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+</iframe>
+</div><br>
+</html>
 
---- /collapse ---
+Scratch embed
+<div class="scratch-preview">
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- collapse ---
----
-title: What you will learn
----
+--- /no-print ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+### You will need:
+- a
+- b
+- c
