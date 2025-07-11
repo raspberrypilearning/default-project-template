@@ -1,4 +1,4 @@
-## Next Step Title
+## Next step title
 
 --- task ---
 
