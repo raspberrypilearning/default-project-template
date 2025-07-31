@@ -10,7 +10,7 @@ A brief description - one or two sentences.
 
 --- no-print ---
 
-Editor embed 
+[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
 
 --- /no-print ---
 
