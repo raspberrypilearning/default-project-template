@@ -23,6 +23,8 @@ They have been configured to have some default settings, including the ten most 
 
 To make use of the Github workflows in this project repository for automating translation setup, you need to add the project's Crowdin ID to the repository's secrets on Github.
 
+Once this is done, files will upload to Crowdin every time a PR is merged into `main`. Download will happen daily at 1am UTC, or when manually triggered from the `Actions` tab.
+
 ### Adding the project ID to Github
 
 1. Once the project is created on Crowdin, copy the project ID. 
