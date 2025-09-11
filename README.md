@@ -15,4 +15,4 @@ See [LICENCE.md](LICENCE.md)
 
 ## Setting up a Crowdin project
 
-See [how-to-crowdin.md](docs/how-to-crowdin.md) inside the `/docs` folder.
+See [how-to-crowdin.md](CROWDIN.md) inside the `/docs` folder.
