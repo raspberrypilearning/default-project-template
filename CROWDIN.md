@@ -23,7 +23,7 @@ They have been configured to have some default settings, including the ten most 
 
 To make use of the Github workflows in this project repository for automating translation setup, you need to add the project's Crowdin ID to the repository's secrets on Github.
 
-Once this is done, files will upload to Crowdin every time a PR is merged into `main`. Download will happen daily at 1am UTC, or when manually triggered from the `Actions` tab.
+Once this is done, files will upload to Crowdin every time a PR is merged into `master`. Download will happen daily at 1am UTC, or when manually triggered from the `Actions` tab, which creates a PR with all the updated tranlsation files. 
 
 ### Adding the project ID to Github
 
@@ -42,6 +42,14 @@ Once this is done, files will upload to Crowdin every time a PR is merged into `
 6. Paste the project ID number into the `Secret` field.
 
 7. Press `Add secret` and you're done!
+
+## Post-processing translations using NTTT
+
+[The NTTT script](https://github.com/raspberrypilearning/nttt) for tidying up translation files downloaded from Crowdin can be also run using GitHub Actions. It can be manually triggered from the `Actions` tab with the workflow `NTTT processing` 
+
+> [!NOTE]
+> The NTTT script does not fix all the errors introduced during Crowdin export. Some of them can be fixed by using Crowdin `Configurable JSON&YAML` and `Custom Post-Export Processor`. Eventually, they will be handled by either updated NTTT or another script that runs from GitHub Actions. 
+
 
 ## Any questions?
 
