@@ -17,8 +17,8 @@ en/
 │   └── .keep
 ├── solutions/
 │   └── .keep
-├── meta.yml
 ├── README.md
+├── meta.yml
 ├── step_1.md
 ├── step_2.md
 └── step_3.md
