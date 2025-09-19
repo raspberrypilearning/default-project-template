@@ -67,7 +67,10 @@ steps:
   - title: What you will make
   - title: Step title
     completion:
-      - engaged      
+      - engaged
+  - title: Step title
+    completion:
+      - internal      
   - title: Challenge
     challenge: true
     completion:
