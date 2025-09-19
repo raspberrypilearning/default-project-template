@@ -5,7 +5,9 @@ OR
 A brief description - one or two sentences. 
 
 --- print-only ---
+
 ![ALT TEXT](images/IMAGE.png)
+
 --- /print-only ---
 
 --- no-print ---
@@ -15,6 +17,7 @@ A brief description - one or two sentences.
 --- /no-print ---
 
 --- no-print ---
+
 Video embed
 
 <video width="640" height="360" controls>
